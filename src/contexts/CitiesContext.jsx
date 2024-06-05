@@ -44,7 +44,7 @@ function reducer(state, action) {
       return {
         ...state,
         isLoading: false,
-        cities: state.cities.filter((city) => city.id != state.payload),
+        cities: state.cities.filter((city) => city.id !== state.payload),
         currentCity: {},
       };
     case "rejected":
@@ -127,7 +127,7 @@ function CitiesProvider({ children }) {
     dispatch({ type: "loading" });
 
     try {
-      const res = await fetch(`${BASE_URL}/cities/${id}`, {
+      await fetch(`${BASE_URL}/cities/${id}`, {
         method: "DELETE",
       });
 
