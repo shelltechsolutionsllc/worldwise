@@ -1,0 +1,172 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "2c5b",
+      "cityName": "Encamp",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2024-05-02T16:16:46.843Z",
+      "notes": "asdfas",
+      "position": {
+        "lat": "42.52069952914966",
+        "lng": "1.5930175781250002"
+      }
+    },
+    {
+      "id": "af12",
+      "cityName": "Commune d’Ouled Helal",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-05-02T16:21:09.884Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "36.06686213257888",
+        "lng": "2.5817871093750004"
+      }
+    },
+    {
+      "id": "0225",
+      "cityName": "Marrakesh",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-05-02T16:21:18.718Z",
+      "notes": "asdfds",
+      "position": {
+        "lat": "31.77487761850741",
+        "lng": "-8.393554687500002"
+      }
+    },
+    {
+      "id": "6783",
+      "cityName": "Brasilia",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2024-05-02T16:23:18.617Z",
+      "notes": "",
+      "position": {
+        "lat": "-15.876809064146757",
+        "lng": "-47.81250000000001"
+      }
+    },
+    {
+      "id": "1a5a",
+      "cityName": "Pantelimon",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2024-05-02T16:23:50.400Z",
+      "notes": "",
+      "position": {
+        "lat": "44.465151013519645",
+        "lng": "26.3232421875"
+      }
+    },
+    {
+      "id": "4d05",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-05-02T16:24:17.530Z",
+      "notes": "",
+      "position": {
+        "lat": "51.37178037591739",
+        "lng": "-0.0439453125"
+      }
+    },
+    {
+      "id": "6078",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-05-02T16:29:17.852Z",
+      "notes": "",
+      "position": {
+        "lat": "48.83579746243093",
+        "lng": "2.4169921875000004"
+      }
+    },
+    {
+      "id": "df74",
+      "cityName": "The Hague",
+      "country": "Netherlands (Kingdom of the)",
+      "emoji": "🇳🇱",
+      "date": "2024-05-02T17:03:27.562Z",
+      "notes": "",
+      "position": {
+        "lat": "52.042355439413214",
+        "lng": "4.235229492187501"
+      }
+    },
+    {
+      "id": "6392",
+      "cityName": "Albacete",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-06T11:02:05.027Z",
+      "notes": "",
+      "position": {
+        "lat": "39.01918369029137",
+        "lng": "-1.8017578125000002"
+      }
+    },
+    {
+      "id": "d10f",
+      "cityName": "Palomera",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-06T11:04:39.830Z",
+      "notes": "",
+      "position": {
+        "lat": "40.07807142745009",
+        "lng": "-2.0544433593750004"
+      }
+    },
+    {
+      "id": "128e",
+      "cityName": "Munich",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-05-06T12:27:54.256Z",
+      "notes": "Some notes",
+      "position": {
+        "lat": "48.13859959165873",
+        "lng": "11.56585693359375"
+      }
+    },
+    {
+      "id": "58d2",
+      "cityName": "Cape Town",
+      "country": "South Africa",
+      "emoji": "🇿🇦",
+      "date": "2024-05-06T12:30:37.667Z",
+      "notes": "Some notes",
+      "position": {
+        "lat": "-33.930827071342726",
+        "lng": "18.418579101562504"
+      }
+    }
+  ]
+}
