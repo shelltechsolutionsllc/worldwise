@@ -44,7 +44,7 @@ function reducer(state, action) {
       return {
         ...state,
         isLoading: false,
-        cities: state.cities.filter((city) => city.id !== state.payload),
+        cities: state.cities.filter((city) => city.id !== action.payload),
         currentCity: {},
       };
     case "rejected":
@@ -135,7 +135,7 @@ function CitiesProvider({ children }) {
     } catch {
       dispatch({
         type: "rejected",
-        payload: "There was an error deleting city.",
+        payload: "There was an error deleting the city...",
       });
     }
   }
